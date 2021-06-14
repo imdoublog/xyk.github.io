@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>逍遥客</title>
+  
+  <subtitle>我自乘风去，四海任我游，醒观天下事，醉卧几春秋！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://imdoublog.github.io/"/>
+  <updated>2021-06-14T17:01:33.341Z</updated>
+  <id>https://imdoublog.github.io/</id>
+  
+  <author>
+    <name>逍遥客</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>甲骨文（Oracle）DD系统教程</title>
+    <link href="https://imdoublog.github.io/posts/1860.html"/>
+    <id>https://imdoublog.github.io/posts/1860.html</id>
+    <published>2021-05-21T22:48:54.000Z</published>
+    <updated>2021-06-14T17:01:33.341Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;如果创建小鸡的版本是Canonical Ubuntu 16.04 (18.04豆子测试也是可以的），把下面脚本扔进CLOUD-INIT即可，不需要密钥。直接用root账号登录，初始账号：&lt;strong&gt;root&lt;/strong&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="豆子收集" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E6%94%B6%E9%9B%86/"/>
+    
+    
+      <category term="甲骨文" scheme="https://imdoublog.github.io/tags/%E7%94%B2%E9%AA%A8%E6%96%87/"/>
+    
+      <category term="DD" scheme="https://imdoublog.github.io/tags/DD/"/>
+    
+      <category term="oracle" scheme="https://imdoublog.github.io/tags/oracle/"/>
+    
+      <category term="系统" scheme="https://imdoublog.github.io/tags/%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>free.fr制作wordpress伪静态规则</title>
+    <link href="https://imdoublog.github.io/posts/1859.html"/>
+    <id>https://imdoublog.github.io/posts/1859.html</id>
+    <published>2021-05-17T17:46:22.000Z</published>
+    <updated>2021-06-14T17:01:33.333Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://imgcdn.doublog.com/imgs/2021/05/667934e18e2070d8.gif&quot; alt&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="豆子原创" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E5%8E%9F%E5%88%9B/"/>
+    
+    
+      <category term="豆子" scheme="https://imdoublog.github.io/tags/%E8%B1%86%E5%AD%90/"/>
+    
+      <category term="free.fr" scheme="https://imdoublog.github.io/tags/free-fr/"/>
+    
+      <category term="伪静态" scheme="https://imdoublog.github.io/tags/%E4%BC%AA%E9%9D%99%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>优化了blogger的那个主题</title>
+    <link href="https://imdoublog.github.io/posts/1858.html"/>
+    <id>https://imdoublog.github.io/posts/1858.html</id>
+    <published>2021-05-16T17:01:56.000Z</published>
+    <updated>2021-06-14T17:01:33.337Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;豆子折腾了大半天，才算是
+        
+      
+    
+    </summary>
+    
+      <category term="豆子原创" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E5%8E%9F%E5%88%9B/"/>
+    
+    
+      <category term="blogger" scheme="https://imdoublog.github.io/tags/blogger/"/>
+    
+      <category term="优化" scheme="https://imdoublog.github.io/tags/%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客备份到blogger</title>
+    <link href="https://imdoublog.github.io/posts/1857.html"/>
+    <id>https://imdoublog.github.io/posts/1857.html</id>
+    <published>2021-05-16T00:07:55.000Z</published>
+    <updated>2021-06-14T17:01:33.337Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;话说，豆子看到还是有很多大佬在玩blogger，而且很多玩的都还很不错。豆子闲暇之余，也把博客备份了一份到blogger.算是多一个备份吧。 &lt;a href=&quot;https://blog.eruo.eu.org&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="豆子物语" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E7%89%A9%E8%AF%AD/"/>
+    
+    
+      <category term="豆子" scheme="https://imdoublog.github.io/tags/%E8%B1%86%E5%AD%90/"/>
+    
+      <category term="备份" scheme="https://imdoublog.github.io/tags/%E5%A4%87%E4%BB%BD/"/>
+    
+      <category term="blogger" scheme="https://imdoublog.github.io/tags/blogger/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Win10 LTSC 2019永久数字权利激活</title>
+    <link href="https://imdoublog.github.io/posts/1856.html"/>
+    <id>https://imdoublog.github.io/posts/1856.html</id>
+    <published>2021-04-17T12:10:36.000Z</published>
+    <updated>2021-06-14T17:01:33.337Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;支持系统 Windows 10 Cloud Windows 10 CloudN Windows 10 Core Windows 10 CoreN Windows 10 CoreCountrySpecific Windows 10 CoreSingleLanguage
+        
+      
+    
+    </summary>
+    
+      <category term="豆子收集" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E6%94%B6%E9%9B%86/"/>
+    
+    
+      <category term="2019数字" scheme="https://imdoublog.github.io/tags/2019%E6%95%B0%E5%AD%97/"/>
+    
+      <category term="ltsc" scheme="https://imdoublog.github.io/tags/ltsc/"/>
+    
+      <category term="win10" scheme="https://imdoublog.github.io/tags/win10/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>虚拟主机安装兰空图床（Lsky Pro）填坑教程</title>
+    <link href="https://imdoublog.github.io/posts/1855.html"/>
+    <id>https://imdoublog.github.io/posts/1855.html</id>
+    <published>2021-04-09T02:02:18.000Z</published>
+    <updated>2021-06-14T17:01:33.341Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;虚拟主机用htaccess指定public为运行目录，就可以正常安装了。 代码如下：  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;RewriteEngine On
+RewriteCond %{REQUEST\_URI} !^public
+RewriteRule ^(.\*)$
+        
+      
+    
+    </summary>
+    
+      <category term="豆子物语" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E7%89%A9%E8%AF%AD/"/>
+    
+    
+      <category term="htaccess" scheme="https://imdoublog.github.io/tags/htaccess/"/>
+    
+      <category term="lsky pro" scheme="https://imdoublog.github.io/tags/lsky-pro/"/>
+    
+      <category term="兰空图床" scheme="https://imdoublog.github.io/tags/%E5%85%B0%E7%A9%BA%E5%9B%BE%E5%BA%8A/"/>
+    
+      <category term="虚拟主机" scheme="https://imdoublog.github.io/tags/%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>豆博做了动静分离</title>
+    <link href="https://imdoublog.github.io/posts/1854.html"/>
+    <id>https://imdoublog.github.io/posts/1854.html</id>
+    <published>2021-04-08T01:10:24.000Z</published>
+    <updated>2021-06-14T17:01:33.341Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;趁着今天有空，豆子就折腾着把博客做了动静分离，然后用super
+        
+      
+    
+    </summary>
+    
+      <category term="豆子物语" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E7%89%A9%E8%AF%AD/"/>
+    
+    
+      <category term="jsdelivr" scheme="https://imdoublog.github.io/tags/jsdelivr/"/>
+    
+      <category term="super cache" scheme="https://imdoublog.github.io/tags/super-cache/"/>
+    
+      <category term="加速" scheme="https://imdoublog.github.io/tags/%E5%8A%A0%E9%80%9F/"/>
+    
+      <category term="动静分离" scheme="https://imdoublog.github.io/tags/%E5%8A%A8%E9%9D%99%E5%88%86%E7%A6%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云盘福利码</title>
+    <link href="https://imdoublog.github.io/posts/1852.html"/>
+    <id>https://imdoublog.github.io/posts/1852.html</id>
+    <published>2021-03-24T01:29:13.000Z</published>
+    <updated>2021-06-14T17:01:33.341Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;最近Loc上很多人讨论套路云盘的问题，看到很多人也发了福利码，整理记录一下： 阿里云盘7.82T空间福利码大集合3月23日更新至24个福利码：  &lt;/p&gt;
+&lt;p&gt;福利码1:上云上阿里云 500G&lt;br&gt;福利码2:扫地僧头发多 500G&lt;br&gt;福利码3:戴老师爱较真
+        
+      
+    
+    </summary>
+    
+      <category term="豆子收集" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E6%94%B6%E9%9B%86/"/>
+    
+    
+      <category term="云盘" scheme="https://imdoublog.github.io/tags/%E4%BA%91%E7%9B%98/"/>
+    
+      <category term="套路云" scheme="https://imdoublog.github.io/tags/%E5%A5%97%E8%B7%AF%E4%BA%91/"/>
+    
+      <category term="阿里云盘" scheme="https://imdoublog.github.io/tags/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>京东自动评价脚本食用</title>
+    <link href="https://imdoublog.github.io/posts/1848.html"/>
+    <id>https://imdoublog.github.io/posts/1848.html</id>
+    <published>2021-02-08T23:25:09.000Z</published>
+    <updated>2021-06-14T17:01:33.337Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;京东自动评价脚本插件使用方法： 1.先打开下面的链接进入待评价商品页面 地址：&lt;a href=&quot;https://club.jd.com/myJdcomments/myJdcomments.action?sort=0&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="豆子收集" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E6%94%B6%E9%9B%86/"/>
+    
+    
+      <category term="京东" scheme="https://imdoublog.github.io/tags/%E4%BA%AC%E4%B8%9C/"/>
+    
+      <category term="自动评价" scheme="https://imdoublog.github.io/tags/%E8%87%AA%E5%8A%A8%E8%AF%84%E4%BB%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>转载：火绒规则之禁止麻花家软件读取电脑浏览历史</title>
+    <link href="https://imdoublog.github.io/posts/1839.html"/>
+    <id>https://imdoublog.github.io/posts/1839.html</id>
+    <published>2021-01-17T20:11:06.000Z</published>
+    <updated>2021-06-14T17:01:33.341Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;今天又爆出麻花家软件会读取浏览器浏览历史并上传，故有大佬写了火绒规则来禁止。&lt;/p&gt;
+&lt;p&gt;{&lt;br&gt;    “ver”:”5.0”,&lt;br&gt;    “tag”:”hipsuser”,&lt;br&gt;    “data”:[&lt;br&gt;        {&lt;br&gt;           
+        
+      
+    
+    </summary>
+    
+      <category term="网络汇集" scheme="https://imdoublog.github.io/categories/%E7%BD%91%E7%BB%9C%E6%B1%87%E9%9B%86/"/>
+    
+    
+      <category term="qq" scheme="https://imdoublog.github.io/tags/qq/"/>
+    
+      <category term="tim" scheme="https://imdoublog.github.io/tags/tim/"/>
+    
+      <category term="火绒" scheme="https://imdoublog.github.io/tags/%E7%81%AB%E7%BB%92/"/>
+    
+      <category term="规则" scheme="https://imdoublog.github.io/tags/%E8%A7%84%E5%88%99/"/>
+    
+      <category term="读取浏览器" scheme="https://imdoublog.github.io/tags/%E8%AF%BB%E5%8F%96%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+      <category term="麻花" scheme="https://imdoublog.github.io/tags/%E9%BA%BB%E8%8A%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新一轮网灾么？</title>
+    <link href="https://imdoublog.github.io/posts/1838.html"/>
+    <id>https://imdoublog.github.io/posts/1838.html</id>
+    <published>2021-01-17T14:09:41.000Z</published>
+    <updated>2021-06-14T17:01:33.341Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://imgcdn.doublog.com/imgs/2021/01/f1c3db97de0b5a29.gif&quot; alt=&quot;can&amp;#39;t visit google&quot;&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="记事杂文" scheme="https://imdoublog.github.io/categories/%E8%AE%B0%E4%BA%8B%E6%9D%82%E6%96%87/"/>
+    
+    
+      <category term="gmail" scheme="https://imdoublog.github.io/tags/gmail/"/>
+    
+      <category term="劫持" scheme="https://imdoublog.github.io/tags/%E5%8A%AB%E6%8C%81/"/>
+    
+      <category term="甲骨文" scheme="https://imdoublog.github.io/tags/%E7%94%B2%E9%AA%A8%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>升级vlbook到php7支持</title>
+    <link href="https://imdoublog.github.io/posts/1837.html"/>
+    <id>https://imdoublog.github.io/posts/1837.html</id>
+    <published>2021-01-15T17:45:30.000Z</published>
+    <updated>2021-06-14T17:01:33.337Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://imgcdn.doublog.com/imgs/2021/01/8af31fc9d2975811.gif&quot; alt=&quot;TxTBook Demo&quot;&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="豆子原创" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E5%8E%9F%E5%88%9B/"/>
+    
+    
+      <category term="豆子" scheme="https://imdoublog.github.io/tags/%E8%B1%86%E5%AD%90/"/>
+    
+      <category term="TxTBook" scheme="https://imdoublog.github.io/tags/TxTBook/"/>
+    
+      <category term="upgrade" scheme="https://imdoublog.github.io/tags/upgrade/"/>
+    
+      <category term="vlbook" scheme="https://imdoublog.github.io/tags/vlbook/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>尝试github action自动部署</title>
+    <link href="https://imdoublog.github.io/posts/1836.html"/>
+    <id>https://imdoublog.github.io/posts/1836.html</id>
+    <published>2021-01-03T23:01:09.000Z</published>
+    <updated>2021-06-14T17:01:33.337Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;看着有大佬已经在使用github
+        
+      
+    
+    </summary>
+    
+      <category term="豆子物语" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E7%89%A9%E8%AF%AD/"/>
+    
+    
+      <category term="自动部署" scheme="https://imdoublog.github.io/tags/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/"/>
+    
+      <category term="github action" scheme="https://imdoublog.github.io/tags/github-action/"/>
+    
+      <category term="workers" scheme="https://imdoublog.github.io/tags/workers/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>和朋友聚餐过新年</title>
+    <link href="https://imdoublog.github.io/posts/1835.html"/>
+    <id>https://imdoublog.github.io/posts/1835.html</id>
+    <published>2021-01-02T21:13:56.000Z</published>
+    <updated>2021-06-14T17:01:33.337Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;元旦节了，新的一年到了，朋友约着今天来沙坪坝新开的新商场金沙天街来聚个餐，顺便团个年。新开的这家商场距离豆子家不是很远，坐公交车也只需要20分钟左右（前提是不堵车的情况）。餐还是前天凌晨在某团团购的，95/人海鲜自助餐（原价189），其实豆子感冒了，再加上本来就不舒服，所以
+        
+      
+    
+    </summary>
+    
+      <category term="豆子物语" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E7%89%A9%E8%AF%AD/"/>
+    
+    
+      <category term="新年" scheme="https://imdoublog.github.io/tags/%E6%96%B0%E5%B9%B4/"/>
+    
+      <category term="新商场" scheme="https://imdoublog.github.io/tags/%E6%96%B0%E5%95%86%E5%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Godaddy免费plesk空间修改上传文件大小</title>
+    <link href="https://imdoublog.github.io/posts/1834.html"/>
+    <id>https://imdoublog.github.io/posts/1834.html</id>
+    <published>2020-12-28T07:43:27.000Z</published>
+    <updated>2021-06-14T17:01:33.333Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;豆子昨天在godaddy免费plesk空间上挂了一个简单图床程序来做图片外链，但是初始上传文件只有2M大小，大点的图片无法上传，于是就各方查找资料，发现可以调整。为了方便，写下这篇文章来做个记录。 &lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="豆子收集" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E6%94%B6%E9%9B%86/"/>
+    
+    
+      <category term="豆子" scheme="https://imdoublog.github.io/tags/%E8%B1%86%E5%AD%90/"/>
+    
+      <category term="godaddy" scheme="https://imdoublog.github.io/tags/godaddy/"/>
+    
+      <category term="godaddy免费plesk空间" scheme="https://imdoublog.github.io/tags/godaddy%E5%85%8D%E8%B4%B9plesk%E7%A9%BA%E9%97%B4/"/>
+    
+      <category term="plesk" scheme="https://imdoublog.github.io/tags/plesk/"/>
+    
+      <category term="免费plesk" scheme="https://imdoublog.github.io/tags/%E5%85%8D%E8%B4%B9plesk/"/>
+    
+      <category term="调整大小" scheme="https://imdoublog.github.io/tags/%E8%B0%83%E6%95%B4%E5%A4%A7%E5%B0%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>雪上加霜~</title>
+    <link href="https://imdoublog.github.io/posts/1832.html"/>
+    <id>https://imdoublog.github.io/posts/1832.html</id>
+    <published>2020-12-11T13:59:15.000Z</published>
+    <updated>2021-06-14T17:01:33.345Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在上周五中午，豆子吃完饭打算坐在椅子上抽支烟就出门上班了，但是突然一阵头晕目眩袭来，导致豆子没办法去上班。这么一休息，直到今天都还没有恢复。期间看过中医，看过西医，还照了脑CT，基本能做的都做了，但是还是特别的不舒服。一周没上班了，哎，让本来就没钱的豆子变得更加的贫穷，这难
+        
+      
+    
+    </summary>
+    
+      <category term="豆子物语" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E7%89%A9%E8%AF%AD/"/>
+    
+    
+      <category term="豆子" scheme="https://imdoublog.github.io/tags/%E8%B1%86%E5%AD%90/"/>
+    
+      <category term="检查" scheme="https://imdoublog.github.io/tags/%E6%A3%80%E6%9F%A5/"/>
+    
+      <category term="积分" scheme="https://imdoublog.github.io/tags/%E7%A7%AF%E5%88%86/"/>
+    
+      <category term="雪上加霜" scheme="https://imdoublog.github.io/tags/%E9%9B%AA%E4%B8%8A%E5%8A%A0%E9%9C%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不可语言形容的累</title>
+    <link href="https://imdoublog.github.io/posts/1827.html"/>
+    <id>https://imdoublog.github.io/posts/1827.html</id>
+    <published>2020-11-23T15:01:45.000Z</published>
+    <updated>2021-06-14T17:01:33.337Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;昨晚回家都凌晨1点多了，吃了点东西，睡觉时都2点半了。身心疲惫，一直以为是自己看的不够透彻，一直以来都在钻牛角尖，但是事实是真的是这样么？拼命在生活中挣扎，而不是看到生活的美，说实话，豆子看不到。也许会有人说豆子想的太多，也许是豆子真的想太多吧！或许这世上还有千千万万比豆子
+        
+      
+    
+    </summary>
+    
+      <category term="豆子物语" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E7%89%A9%E8%AF%AD/"/>
+    
+    
+      <category term="豆子" scheme="https://imdoublog.github.io/tags/%E8%B1%86%E5%AD%90/"/>
+    
+      <category term="挣扎" scheme="https://imdoublog.github.io/tags/%E6%8C%A3%E6%89%8E/"/>
+    
+      <category term="疲惫" scheme="https://imdoublog.github.io/tags/%E7%96%B2%E6%83%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>豆博主题也升级了一下</title>
+    <link href="https://imdoublog.github.io/posts/1822.html"/>
+    <id>https://imdoublog.github.io/posts/1822.html</id>
+    <published>2020-11-08T16:51:37.000Z</published>
+    <updated>2021-06-14T17:01:33.341Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;把博客升级到最新版以后，突然发现主题也可以升级了，但是傻傻的没有备份文件，就直接升级，然后就杯具了。网站的设置都没了，还有之前修改过的代码，也不见了踪影……无奈，只好重新慢慢修改之，发现一处改一处了。其实这款主题确实用着不错，挺方便，设置也很简单。主要就是之前豆子修改过参数
+        
+      
+    
+    </summary>
+    
+      <category term="豆子物语" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E7%89%A9%E8%AF%AD/"/>
+    
+    
+      <category term="豆博" scheme="https://imdoublog.github.io/tags/%E8%B1%86%E5%8D%9A/"/>
+    
+      <category term="升级" scheme="https://imdoublog.github.io/tags/%E5%8D%87%E7%BA%A7/"/>
+    
+      <category term="主题" scheme="https://imdoublog.github.io/tags/%E4%B8%BB%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>豆博版本升级</title>
+    <link href="https://imdoublog.github.io/posts/1817.html"/>
+    <id>https://imdoublog.github.io/posts/1817.html</id>
+    <published>2020-11-08T13:37:41.000Z</published>
+    <updated>2021-06-14T17:01:33.341Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;刚才本来通过后台升级一下豆博的版本，但是不知道怎么了，升级到一半，挂了，只好重新传了程序直接升级，之前是因为同步博客的问题，所以一直没升级，现在也没所谓了。反正一直有自动备份。&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="豆子原创" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E5%8E%9F%E5%88%9B/"/>
+    
+    
+      <category term="升级" scheme="https://imdoublog.github.io/tags/%E5%8D%87%E7%BA%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>乱</title>
+    <link href="https://imdoublog.github.io/posts/1815.html"/>
+    <id>https://imdoublog.github.io/posts/1815.html</id>
+    <published>2020-11-07T23:12:40.000Z</published>
+    <updated>2021-06-14T17:01:33.337Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&amp;ensp;&amp;ensp; 最近乱成一团糟，豆子都不知道是怎么了。这两年豆子经历了太多太多，把这辈子要经历的事情基本都经历了。哎，也许现在就是豆子的低谷期吧！一切的一切都是那么的不顺利，总之就是那么的不开心的苟延残喘着。&lt;/p&gt;
+&lt;p&gt;&amp;ensp;&amp;ensp;
+        
+      
+    
+    </summary>
+    
+      <category term="碎言碎语" scheme="https://imdoublog.github.io/categories/%E7%A2%8E%E8%A8%80%E7%A2%8E%E8%AF%AD/"/>
+    
+    
+      <category term="豆子" scheme="https://imdoublog.github.io/tags/%E8%B1%86%E5%AD%90/"/>
+    
+      <category term="乱" scheme="https://imdoublog.github.io/tags/%E4%B9%B1/"/>
+    
+  </entry>
+  
+</feed>
